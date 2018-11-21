@@ -1,6 +1,7 @@
 .gradle
 /build/
 !gradle/wrapper/gradle-wrapper.jar
+!build/libs/discoveryservice-0.0.1-SNAPSHOT.jar
 
 ### STS ###
 .apt_generated
